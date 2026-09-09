@@ -1,22 +1,34 @@
 friggen wip yo.
-<p align="center">
+
+
+<div align="center">
+
 <details>
-<summary>blinkies</summary>
+<summary>nominations</summary>
 
-
-
-labubu
 
 
 </details>
-</p>
+
+</div>
+
+
+
+<div align="center">
+
+<details>
+<summary>links</summary>
+
+
+
+</details>
+
+</div>
+
+
+ 
 
 <p align="center">
-  bruh
+<img src="https://github.com/2quet/2quet/blob/475e849669e79b0640c79f6db4d2c88aea1fbdb4/Untitled579_20260909120308.png" width="600"> 
 </p>
 
-  <p align="center">
-  <img src="./images/left.png" width="200" align="left">
-  <img src="./images/center.png" width="200">
-  <img src="./images/right.png" width="200" align="right">
-</p>
