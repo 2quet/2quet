@@ -23,6 +23,10 @@ friggen wip yo.
 <details>
 <summary>links</summary>
 
+<a href="[https://punchiez.straw.page]">straw page</a>
+<img src="YOUR_IMAGE.png" width="30" height="30">
+<a href="[https://pronouns.cc/@punchiez]">pronouns page</a>
+
 [straw page](https://punchiez.straw.page)
 [pronouns page](https://pronouns.cc/@punchiez)
 </details>
@@ -38,7 +42,7 @@ friggen wip yo.
 
  <p align="center">
   <img src="https://github.com/2quet/2quet/blob/b221550ca06098b2ae814c62af3a751ea90059fb/IMG_0904.webp" width="200">
-  <img src="IMG_0913.webp" width="200">
+  <img src="IMG_0905.png" width="200">
   <img src="IMG_0904.webp" width="200">
 
 
