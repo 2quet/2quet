@@ -23,9 +23,9 @@
 <details>
 <summary>links</summary>
 
-<a href="[https://punchiez.straw.page]">straw page</a>
+[steaw page](https://punchiez.straw.page)
 <img src="https://github.com/2quet/2quet/blob/6ea5d1bcc9b746f5996d4f16414349e4a6c6bfb0/IMG_0883.webp" width="30" height="30">
-<a href="[https://pronouns.cc/@punchiez]">pronouns page</a>
+[pronouns page](https://pronouns.cc/@punchiez)
 
 
 </details>
