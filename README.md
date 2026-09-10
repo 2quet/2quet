@@ -1,4 +1,4 @@
-friggen wip yo.
+
 
 
 <div align="center">
@@ -24,21 +24,46 @@ friggen wip yo.
 <summary>links</summary>
 
 <a href="[https://punchiez.straw.page]">straw page</a>
-<img src="YOUR_IMAGE.png" width="30" height="30">
+<img src="https://github.com/2quet/2quet/blob/6ea5d1bcc9b746f5996d4f16414349e4a6c6bfb0/IMG_0883.webp" width="30" height="30">
 <a href="[https://pronouns.cc/@punchiez]">pronouns page</a>
 
-[straw page](https://punchiez.straw.page)
-[pronouns page](https://pronouns.cc/@punchiez)
+
 </details>
 
 </div>
 
 
- 
 
+
+<p align="center">
+<img src="https://github.com/2quet/2quet/blob/6ea5d1bcc9b746f5996d4f16414349e4a6c6bfb0/IMG_0893.gif" width="189"> 
+</p>
+
+
+ 
 <p align="center">
 <img src="https://github.com/2quet/2quet/blob/475e849669e79b0640c79f6db4d2c88aea1fbdb4/Untitled579_20260909120308.png" width="600"> 
 </p>
+
+<p align="center">
+  punchiez
+  <img src="https://github.com/2quet/2quet/blob/6ea5d1bcc9b746f5996d4f16414349e4a6c6bfb0/IMG_0885.webp" width="30">
+   punchy hvykin
+
+ <img src="https://github.com/2quet/2quet/blob/6ea5d1bcc9b746f5996d4f16414349e4a6c6bfb0/IMG_0891.webp" width="69">
+  C+H freely
+
+ <img src="https://github.com/2quet/2quet/blob/6ea5d1bcc9b746f5996d4f16414349e4a6c6bfb0/IMG_0895.gif" width="35">
+   Dni twin-kins
+</p>
+
+
+
+
+
+
+
+
 
  <p align="center">
   <img src="https://github.com/2quet/2quet/blob/b221550ca06098b2ae814c62af3a751ea90059fb/IMG_0904.webp" width="200">
