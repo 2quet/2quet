@@ -19,7 +19,7 @@ ${\textsf{\color{#3A6EAB}adhd}}$ ${\textsf{\color{#94C9EB}+}}$ ${\textsf{\color{
 </p>
 
 <p>
-  (๑•ૅㅁ•๑)
+${\textsf{\color{#3A6EAB}-11 dni}}
 </p>
 
 <p>
