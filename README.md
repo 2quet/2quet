@@ -6,7 +6,7 @@
 <div align="center">
 
 <p>
-${\color{BDD4FF}\text{\qquad  ྀ JUST 4 U. .   \qquad}}$ text <img src="GIF1.gif" width="35"> text text <img src="GIF2.gif" width="35"> text
+ text <img src="GIF1.gif" width="35"> text text <img src="GIF2.gif" width="35"> text
 </p>
 
 <p>
@@ -18,7 +18,7 @@ adhd + anxiety <img src="GIF5.gif" width="30"> iwc + dniufirst
 </p>
 
 <p>
-"quote quote quote quote"
+${\color{BDD4FF}\text{\qquad  ྀ “Hey senpai, notice me^w^”   \qquad}}$
 </p>
 
 <p>
