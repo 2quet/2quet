@@ -1,6 +1,6 @@
-<img src="(https://github.com/2quet/2quet/blob/30fe3eb3e88a499fe1bdb648dc2f51ac270f24e7/Untitled651_20261105023916.png)" width="250" length=“250” align="left">
+<img src="Untitled651_20261105023916.png" width="400" length=“250” align="left">
 
-<img src="IMAGE.png" width="250" length=“250” align="right">
+<img src="Untitled652_20261105024016.png" width="250" length=“250” align="right">
 
 
 <div align="center">
@@ -31,16 +31,22 @@ adhd + anxiety <img src="GIF5.gif" width="30"> iwc + dniufirst
 <br>
 
 <a href="IMAGE_LINK1">
-<img src="IMAGE1.png" width="150">
+<img src="Untitled654_20261105025524.png" width="100">
 </a>
+
+
 <a href="IMAGE_LINK2">
-<img src="IMAGE2.png" width="150">
+<img src="Untitled654_20261105125857.png" width="100">
 </a>
+
 <a href="IMAGE_LINK3">
-<img src="IMAGE3.png" width="150">
+<img src="Untitled654_20261105025518.png" width="100">
 </a>
 
 </div>
+<p align="center">
+  <sub>rika,   griefer,  isaac.</sub>
+</p>
 
 
 
