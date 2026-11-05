@@ -44,7 +44,7 @@ ${\textsf{\color{#94C9EB}” hey senpai;}}$ ${\textsf{\color{#3A6EAB}notice}}$ $
 <img src="Untitled654_20261105125857.png" width="100">
 </a>
 
-<a href="[https://github.com/time2bfreaky]">
+<a href="(https://github.com/time2bfreaky)">
 <img src="Untitled654_20261105025518.png" width="100">
 </a>
 
