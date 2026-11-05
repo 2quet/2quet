@@ -28,10 +28,8 @@ ${\textsf{\color{#94C9EB}” hey senpai;}}$ ${\textsf{\color{#3A6EAB}notice}}$ $
 </p>
 
 <p>
-<a href="LINK1">pat <img src="IMG_2358.gif" width="20"></a>
-<a href="LINK2">stra <img src="IMG_2359.gif" width="20"></a>
-<a href="LINK3">prns <img src="IMG_2360.webp" width="20"></a>
-<a href="LINK4">rblx<img src=“IMG_2363.gif” width=20></a>
+
+
             
 </p>
 
