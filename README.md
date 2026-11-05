@@ -19,7 +19,7 @@ ${\textsf{\color{#3A6EAB}adhd}}$ ${\textsf{\color{#94C9EB}+}}$ ${\textsf{\color{
 </p>
 
 <p>
-<color=#00FFFF>hey senpai, notice me!</color>
+${\textsf{\color{#3A6EAB}hey senpai, notice me٩( 'ω' )و}}
 </p>
 
 <p>
