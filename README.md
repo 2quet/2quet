@@ -1,4 +1,4 @@
-${\color{BDD4FF}\Huge\text{\qquad  ྀ JUST 4 U. .   \qquad}}$
+
 
 <img src="Untitled652_20261105024016.png" width="400" length=“250” align="right">
 
@@ -6,7 +6,7 @@ ${\color{BDD4FF}\Huge\text{\qquad  ྀ JUST 4 U. .   \qquad}}$
 <div align="center">
 
 <p>
-text text <img src="GIF1.gif" width="35"> text text <img src="GIF2.gif" width="35"> text
+${\color{BDD4FF}\text{\qquad  ྀ JUST 4 U. .   \qquad}}$ text <img src="GIF1.gif" width="35"> text text <img src="GIF2.gif" width="35"> text
 </p>
 
 <p>
