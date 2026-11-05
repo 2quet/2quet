@@ -1,6 +1,6 @@
 <img src="IMAGE.png" width="350" length=“350” align="left">
 
-<img src="IMAGE.png" width="350" length=“350” align="right">
+
 
 <div align="center">
 
