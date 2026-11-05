@@ -18,14 +18,14 @@ adhd + anxiety <img src="GIF5.gif" width="30"> iwc + dniufirst
 </p>
 
 <p>
-${\color{BDD4FF}\text{\qquad  ྀ Hey senpai, notice me. \qquad}}$
+hey senpai, notice me.
 </p>
 
 <p>
-<a href="LINK1">link <img src="GIF6.gif" width="25"></a>
-<a href="LINK2">link <img src="GIF7.gif" width="25"></a>
-<a href="LINK3">link <img src="GIF8.gif" width="25"></a>
-<a href="LINK4">link</a>
+<a href="LINK1">patreon <img src="GIF6.gif" width="25"></a>
+<a href="LINK2">straw <img src="GIF7.gif" width="25"></a>
+<a href="LINK3">prns <img src="GIF8.gif" width="25"></a>
+<a href="LINK4">rblx</a>
 </p>
 
 <br>
