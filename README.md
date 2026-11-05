@@ -6,15 +6,16 @@
 <div align="center">
 
 <p>
- ${\textsf{\color{#858585}hi}$ <img src="GIF1.gif" width="35"> text text <img src="GIF2.gif" width="35"> text
+${\textsf{\color{#94C9EB}Fawn or sling}}$  <img src="GIF1.gif" width="35"> ${\textsf{\color{#3A6EAB
+}-11 dni}}$ <img src="GIF2.gif" width="35"> ${\textsf{\color{#94C9EB}mentally ill}}$
 </p>
 
 <p>
-prns <img src="GIF3.gif" width="30"> prns. (txt) prns <img src="GIF4.gif" width="30"> prn
+${\textsf{\color{#6B7C9C}he/him}}$ <img src="GIF3.gif" width="30"> ${\textsf{\color{#94C9EB}mirror prn}}$ <img src="GIF4.gif" width="30"> ${\textsf{\color{#6B7C9C}paw/pawself}}$
 </p>
 
 <p>
-adhd + anxiety <img src="GIF5.gif" width="30"> iwc + dniufirst
+${\textsf{\color{#3A6EAB}adhd}}$ ${\textsf{\color{#94C9EB}+}}$ ${\textsf{\color{#6B7C9C}anxitey}}$ <img src="GIF5.gif" width="30"> iwc + dniufirst
 </p>
 
 <p>
