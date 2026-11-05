@@ -6,16 +6,16 @@
 <div align="center">
 
 <p>
-${\textsf{\color{#94C9EB}Fawn or sling}}$  <img src="GIF1.gif" width="35"> ${\textsf{\color{#3A6EAB
-}-11 dni}}$ <img src="GIF2.gif" width="35"> ${\textsf{\color{#94C9EB}mentally ill}}$
+${\textsf{\color{#94C9EB}Fawn or sling}}$  <img src="IMG_2364.gif" width="20"> ${\textsf{\color{#3A6EAB
+}-11 dni}}$ <img src="IMG_2365.gif" width="20"> ${\textsf{\color{#94C9EB}mentally ill}}$
 </p>
 
 <p>
-${\textsf{\color{#6B7C9C}he/him}}$ <img src="GIF3.gif" width="30"> ${\textsf{\color{#94C9EB}mirror prn}}$ <img src="GIF4.gif" width="30"> ${\textsf{\color{#6B7C9C}paw/pawself}}$
+${\textsf{\color{#6B7C9C}he/him}}$ <img src="IMG_2360.webp" width="20"> ${\textsf{\color{#94C9EB}mirror prn}}$ <img src="IMG_2361.gif" width="20"> ${\textsf{\color{#6B7C9C}paw/pawself}}$
 </p>
 
 <p>
-${\textsf{\color{#3A6EAB}adhd}}$ ${\textsf{\color{#94C9EB}+}}$ ${\textsf{\color{#6B7C9C}anxitey}}$ <img src="GIF5.gif" width="30"> ${\textsf{\color{#94C9EB}iwc +}}$ ${\textsf{\color{#3A6EAB}dniu}}$ ${\textsf{\color{#6B7C9C}first}}$
+${\textsf{\color{#3A6EAB}adhd}}$ ${\textsf{\color{#94C9EB}+}}$ ${\textsf{\color{#6B7C9C}anxitey}}$ <img src="IMG_2363.gif" width="20"> ${\textsf{\color{#94C9EB}iwc +}}$ ${\textsf{\color{#3A6EAB}dniu}}$ ${\textsf{\color{#6B7C9C}first}}$
 </p>
 <p>
 ${\textsf{\color{#94C9EB}” hey senpai;}}$ ${\textsf{\color{#3A6EAB}notice}}$ ${\textsf{\color{#94C9EB}me!♡“}}$
