@@ -19,9 +19,7 @@ ${\textsf{\color{#3A6EAB}adhd}}$ ${\textsf{\color{#94C9EB}+}}$ ${\textsf{\color{
 </p>
 
 <p>
-
   ${\textsf{\color{#3A6EAB}Hey senpai, notice me!}}
-
 </p>
 
 <p>
