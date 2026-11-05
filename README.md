@@ -1,4 +1,4 @@
-
+${\color{BDD4FF}\Huge\text{\qquad  ྀ JUST 4 U. .   \qquad}}$
 
 <img src="Untitled652_20261105024016.png" width="400" length=“250” align="right">
 
