@@ -1,4 +1,5 @@
-<img src="IMAGE.png" width="250" length=“250” align="left">
+<img src="(https://github.com/2quet/2quet/blob/30fe3eb3e88a499fe1bdb648dc2f51ac270f24e7/Untitled651_20261105023916.png)" width="250" length=“250” align="left">
+
 <img src="IMAGE.png" width="250" length=“250” align="right">
 
 
