@@ -18,7 +18,7 @@ adhd + anxiety <img src="GIF5.gif" width="30"> iwc + dniufirst
 </p>
 
 <p>
-${\color{BDD4FF}\text{\qquad  ྀ “Hey senpai, notice me^w^”   \qquad}}$
+${\color{BDD4FF}\text{\qquad  ྀ Hey senpai, notice me. \qquad}}$
 </p>
 
 <p>
