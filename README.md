@@ -35,12 +35,12 @@ ${\textsf{\color{#94C9EB}” hey senpai;}}$ ${\textsf{\color{#3A6EAB}notice}}$ $
 
 <br>
 
-<a href="IMAGE_LINK1">
+<a href="https://github.com/ilovemozzerallastick">
 <img src="Untitled654_20261105025524.png" width="100">
 </a>
 
 
-<a href="IMAGE_LINK2">
+<a href="https://www.patreon.com/cw/HaroldRogerskins">
 <img src="Untitled654_20261105125857.png" width="100">
 </a>
 
