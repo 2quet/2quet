@@ -6,7 +6,7 @@
 <div align="center">
 
 <p>
- text <img src="GIF1.gif" width="35"> text text <img src="GIF2.gif" width="35"> text
+ ${\textsf{\color{#858585}hi}$ <img src="GIF1.gif" width="35"> text text <img src="GIF2.gif" width="35"> text
 </p>
 
 <p>
