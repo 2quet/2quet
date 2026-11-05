@@ -17,9 +17,14 @@ ${\textsf{\color{#6B7C9C}he/him}}$ <img src="GIF3.gif" width="30"> ${\textsf{\co
 <p>
 ${\textsf{\color{#3A6EAB}adhd}}$ ${\textsf{\color{#94C9EB}+}}$ ${\textsf{\color{#6B7C9C}anxitey}}$ <img src="GIF5.gif" width="30"> ${\textsf{\color{#94C9EB}iwc +}}$ ${\textsf{\color{#3A6EAB}dniu}}$ ${\textsf{\color{#6B7C9C}first}}$
 </p>
+<p>
+${\textsf{\color{#94C9EB}” hey senpai;}}$ ${\textsf{\color{#3A6EAB}notice}}$ ${\textsf{\color{#94C9EB}me!♡“}}$
+</p>
+
+</p>
 
 <p>
-${\textsf{\color{#3A6EAB}-11 dni}}
+
 </p>
 
 <p>
